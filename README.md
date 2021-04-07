@@ -20,7 +20,7 @@ You can clone or fork this repo as a theme for your portfolio site. Because it d
 
 ♲Using the Template
 Fork and Clone the repository
-https://github.com/devpuskar/Personal-Portfolio.git
+https://github.com/sidkhurana3630/Personal-Portfolio.git
 Go inside the main repository
 $ cd Personal-Portfolio-v1
 Modify index.html to change the names and links to point at your pages.
