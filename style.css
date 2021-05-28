@@ -176,7 +176,7 @@ section .title::after{
 /* Home-section styling */
 .home{
     display:flex;
-    background: url("background.png");
+    background: url('https://github.com/sidkhurana3630/Personal-Portfolio/blob/main/background.png?raw=true');
     background-repeat:no-repeat;
     height:100vh;
     background-size: cover;
