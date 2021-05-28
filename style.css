@@ -178,6 +178,7 @@ section .title::after{
     display:flex;
     background: url('https://github.com/sidkhurana3630/Personal-Portfolio/blob/main/background.png?raw=true');
     background-repeat:no-repeat;
+    background-position:center;
     height:100vh;
     background-size: cover;
     background-attachment: fixed;
